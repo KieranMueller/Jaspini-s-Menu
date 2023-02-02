@@ -1,6 +1,7 @@
 html{
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
+    justify-content: center;
 }
 i{
     font-size: 28px;
