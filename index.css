@@ -4,6 +4,9 @@ html{
     justify-content: center;
     touch-action: manipulation;
 }
+body{
+    touch-action: manipulation;
+}
 i{
     font-size: 28px;
     transition: .3s;
