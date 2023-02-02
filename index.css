@@ -83,9 +83,9 @@ header{
     position: fixed;
     background-color: rgb(204, 116, 116);
     height: 550px;
-    width: 400px;
+    width: 350px;
     top: 10%;
-    left:10%;
+    left:4%;
     z-index: 2;
     box-shadow: 0 20px 100px rgb(0, 0, 0);
     padding:10px;
