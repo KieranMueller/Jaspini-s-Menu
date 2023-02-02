@@ -3,7 +3,7 @@ html{
     display: flex;
 }
 i{
-    font-size: 24px;
+    font-size: 28px;
     transition: .3s;
 }
 i:hover{
@@ -54,7 +54,7 @@ header{
 }
 .remove-btn, .checkout-btn{
     margin-left: 20px;
-    height:30%;
+    height:30px;
     border-radius: 8px;
     background-color: black;
     color: wheat;
@@ -70,6 +70,7 @@ header{
     cursor: pointer;
 }
 .total-div{
+    margin-bottom: 40px;
     background-color: rgb(204, 116, 116);
     font-weight: 700;
     padding-left: 10px;
